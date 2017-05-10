@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cheyanxu/.android/build-cache/6a52e6ff1b7ac5a754f29b486704bbdc5d143290/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Facebook/KK/android/app/build/intermediates/pre-dexed/release/classes_6ed1b7cf463c00da34fdd86109312ccc9684155a.jar" />
+    </item>
+
+</items>

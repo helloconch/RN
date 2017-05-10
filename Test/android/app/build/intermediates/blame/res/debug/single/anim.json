@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/1155e953aeeed28d8ec915c24d15e72534a56a8d/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/1155e953aeeed28d8ec915c24d15e72534a56a8d/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/1155e953aeeed28d8ec915c24d15e72534a56a8d/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/1155e953aeeed28d8ec915c24d15e72534a56a8d/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/1155e953aeeed28d8ec915c24d15e72534a56a8d/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/1155e953aeeed28d8ec915c24d15e72534a56a8d/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

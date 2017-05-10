@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Facebook/KK/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/cheyanxu/.android/build-cache/e247305b7409b9f8fe69ca6a647b2dfca77e7a31/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

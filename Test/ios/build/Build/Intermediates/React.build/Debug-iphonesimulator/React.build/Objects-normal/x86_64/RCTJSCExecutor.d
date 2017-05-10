@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/Facebook/KK/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/Facebook/KK/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Facebook/KK/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/Facebook/KK/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/Facebook/KK/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Facebook/KK/node_modules/react-native/React/Modules/RCTDevMenu.h
