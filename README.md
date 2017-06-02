@@ -27,7 +27,8 @@ Android
 
 新增main.jsbundle文件
 
-首先在浏览器打开http://localhost:8081/index.ios.bundle?platform=android&dev=false（根据自己项目及平台来），然后将自己创建一个文件main.jsbundle来保存此网址返回的代码，最后放到Android的assets目录中
+首先在浏览器打开http://localhost:8081/index.ios.bundle?platform=android&dev=false（根据自己项目及平台来），
+然后将自己创建一个文件main.jsbundle来保存此网址返回的代码，最后放到Android的assets目录中
 
 新增写文件代码
 
@@ -66,7 +67,8 @@ Ios
 
 新增main.jsbundle文件
 
-首先在浏览器打开http://localhost:8081/index.ios.bundle?platform=ios&dev=false（根据自己项目及平台来），然后将自己创建一个文件main.jsbundle来保存此网址返回的代码，最后放到iOS的项目根目录中
+首先在浏览器打开http://localhost:8081/index.ios.bundle?platform=ios&dev=false（根据自己项目及平台来），
+然后将自己创建一个文件main.jsbundle来保存此网址返回的代码，最后放到iOS的项目根目录中
 
 修改项目中加载代码的判断
 
