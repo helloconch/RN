@@ -16,7 +16,8 @@
 译注：在真机上运行时可能会遇到白屏的情况，请找到并开启悬浮窗权限。比如miui系统的设置在此处。
 
 提示
-你还可以运行react-native run-android --variant=release来安装release版的应用。当然你需要先配置好签名，且此时无法再开启开发者菜单。注意在debug和release版本间来回切换安装时可能会报错签名不匹配，此时需要先卸载前一个版本再尝试安装。
+你还可以运行react-native run-android --variant=release来安装release版的应用。当然你需要先配置好签名，
+且此时无法再开启开发者菜单。注意在debug和release版本间来回切换安装时可能会报错签名不匹配，此时需要先卸载前一个版本再尝试安装。
 ```
 
 ### Android打包遇到问题
@@ -42,7 +43,8 @@ By changing node executable path in build.gradle(app) works for me.
 ```
 ### Android Stuido Build异常
 ```
-1.Error:Execution failed for task ':app:mergeDebugResources'. > Error: Some file crunching failed, see logs for details
+1.Error:Execution failed for task ':app:mergeDebugResources'. > Error: Some file crunching failed, 
+see logs for details
 方式:build.gradle中
 android{
  aaptOptions {
