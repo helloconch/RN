@@ -8,6 +8,11 @@
 
 
 # RN
+### Android真机菜单键呼出
+```
+adb shell input keyevent 82
+
+```
 
 ### Android真机设备上运行
 ```
