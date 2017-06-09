@@ -1,3 +1,4 @@
+[Android原生项目集成React Native](http://blog.csdn.net/u013718120/article/details/55050900)
 # RN
 ### Android打包遇到问题
 ```
