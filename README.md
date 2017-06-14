@@ -8,6 +8,18 @@
 
 
 # RN
+
+###Yarn、React Native的命令行工具（react-native-cli）
+```
+Yarn是Facebook提供的替代npm的工具，可以加速node模块的下载。React Native的命令行工具用于执行创建、初始化、更新项目、运行打包服务（packager）等任务。
+
+npm install -g yarn react-native-cli
+
+用yarn代替npm install
+yarn add代替npm install --save
+
+```
+
 ### Android真机菜单键呼出
 ```
 adb shell input keyevent 82
