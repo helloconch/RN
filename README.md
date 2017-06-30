@@ -77,7 +77,7 @@ android{
 }
 
 ```
-### react native app离线打包准备
+### 
 ```
 
 ```
