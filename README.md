@@ -6,6 +6,8 @@
 
 [ React Native与Android通信交互](http://blog.csdn.net/u013718120/article/details/55506238)
 
+[ React Native发布APP之签名打包APK](http://blog.csdn.net/fengyuzhengfan/article/details/51958848)
+
 
 # RN
 
